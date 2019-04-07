@@ -2155,7 +2155,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #76e2c7;
 					}
 
 /* Footer */
@@ -2233,8 +2233,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-color: rgb(118, 138, 150);
+				background-image: url("../../images/pic02.jpg");
 			}
 
 			#main > section.two {
